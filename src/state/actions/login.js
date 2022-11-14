@@ -4,7 +4,6 @@ export const userLogin = (username, password) => {
   return (dispatch) => {
     for (let i = 0; i < data.length; i++) {
       if (data[i].username === username && data[i].password === password) {
-        console.log(data[i]);
         dispatch({
           type: "USER_LOGIN_SUCCESS",
           payload: data[i],

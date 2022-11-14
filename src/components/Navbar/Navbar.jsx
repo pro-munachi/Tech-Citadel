@@ -6,11 +6,11 @@ const Navbar = () => {
   return (
     <Flex
       h="80px"
-      bg={useColorModeValue("lightMode.mainBgColor", "darkMode.mainBgColor")}
+      bg={useColorModeValue("lightMode.navBgColor", "darkMode.navBgColor")}
       justifyContent="space-between"
       alignItems="center"
     >
-      <Box>School</Box>
+      <Box>Citadel</Box>
 
       <Box onClick={() => toggleColorMode()}>
         {colorMode === "light" ? "Darkmode" : "Lightmode"}

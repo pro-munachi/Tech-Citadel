@@ -6,8 +6,8 @@ import useCustomToast from "../../shared-components/Toast";
 import { userLogin } from "../../state/actions/login";
 
 function Login() {
-  const [username, setUsername] = useState("");
-  const [password, setPassword] = useState("");
+  const [username, setUsername] = useState("madu");
+  const [password, setPassword] = useState("12345");
   const [type, setType] = useState("password");
 
   const dispatch = useDispatch();
