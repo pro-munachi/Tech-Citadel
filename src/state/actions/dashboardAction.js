@@ -6,7 +6,7 @@ export const dashboardInfo = (info) => {
       if (data[i].uid === info) {
         dispatch({
           type: "dashboard_data",
-          payload: data[i].subjects,
+          payload: data[i],
         });
       }
     }
