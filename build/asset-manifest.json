@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.607c6f3e.css",
+    "main.js": "/static/js/main.483c9110.js",
+    "static/js/787.639d7f56.chunk.js": "/static/js/787.639d7f56.chunk.js",
+    "static/media/ibm-plex-sans-all-200-normal.woff": "/static/media/ibm-plex-sans-all-200-normal.14ff09104db63e91e223.woff",
+    "static/media/ibm-plex-sans-all-300-normal.woff": "/static/media/ibm-plex-sans-all-300-normal.2eee09e61eeb0daf4220.woff",
+    "static/media/ibm-plex-sans-all-500-normal.woff": "/static/media/ibm-plex-sans-all-500-normal.dfe890c7aba797c40f35.woff",
+    "static/media/ibm-plex-sans-all-400-normal.woff": "/static/media/ibm-plex-sans-all-400-normal.ac37447d88dc924364ce.woff",
+    "static/media/ibm-plex-sans-latin-200-normal.woff2": "/static/media/ibm-plex-sans-latin-200-normal.170b67a3b9ce6cc2b71f.woff2",
+    "static/media/ibm-plex-sans-latin-300-normal.woff2": "/static/media/ibm-plex-sans-latin-300-normal.f598a9018023874fcb06.woff2",
+    "static/media/ibm-plex-sans-latin-500-normal.woff2": "/static/media/ibm-plex-sans-latin-500-normal.51f75d450b3474fa5f0e.woff2",
+    "static/media/ibm-plex-sans-latin-400-normal.woff2": "/static/media/ibm-plex-sans-latin-400-normal.4d32b6c22a800bdf8260.woff2",
+    "static/media/ibm-plex-sans-latin-ext-200-normal.woff2": "/static/media/ibm-plex-sans-latin-ext-200-normal.59d7dad78e4caa71cfa5.woff2",
+    "static/media/ibm-plex-sans-latin-ext-300-normal.woff2": "/static/media/ibm-plex-sans-latin-ext-300-normal.096edd6f1744551b3d7c.woff2",
+    "static/media/ibm-plex-sans-latin-ext-500-normal.woff2": "/static/media/ibm-plex-sans-latin-ext-500-normal.4df16cd5d175486b7a6c.woff2",
+    "static/media/ibm-plex-sans-latin-ext-400-normal.woff2": "/static/media/ibm-plex-sans-latin-ext-400-normal.77bcbc5ecc8f4f2bbe06.woff2",
+    "static/media/ibm-plex-sans-cyrillic-500-normal.woff2": "/static/media/ibm-plex-sans-cyrillic-500-normal.bc2fa1551a7f6dd6fac1.woff2",
+    "static/media/ibm-plex-sans-cyrillic-200-normal.woff2": "/static/media/ibm-plex-sans-cyrillic-200-normal.3de56fa56e3e42f3616b.woff2",
+    "static/media/ibm-plex-sans-cyrillic-300-normal.woff2": "/static/media/ibm-plex-sans-cyrillic-300-normal.226b9ce51770b16b5e95.woff2",
+    "static/media/ibm-plex-sans-cyrillic-400-normal.woff2": "/static/media/ibm-plex-sans-cyrillic-400-normal.2f77d85fb008b53d005a.woff2",
+    "static/media/ibm-plex-sans-greek-200-normal.woff2": "/static/media/ibm-plex-sans-greek-200-normal.36f6759b394fd0952e26.woff2",
+    "static/media/ibm-plex-sans-greek-300-normal.woff2": "/static/media/ibm-plex-sans-greek-300-normal.88d101262e0ada862dbb.woff2",
+    "static/media/ibm-plex-sans-greek-500-normal.woff2": "/static/media/ibm-plex-sans-greek-500-normal.930522bca3ae8f9319b4.woff2",
+    "static/media/ibm-plex-sans-cyrillic-ext-500-normal.woff2": "/static/media/ibm-plex-sans-cyrillic-ext-500-normal.17bc5885bfaace64d52f.woff2",
+    "static/media/ibm-plex-sans-cyrillic-ext-300-normal.woff2": "/static/media/ibm-plex-sans-cyrillic-ext-300-normal.b11ca82cde2d40302617.woff2",
+    "static/media/ibm-plex-sans-cyrillic-ext-200-normal.woff2": "/static/media/ibm-plex-sans-cyrillic-ext-200-normal.bd0021a1288b71365828.woff2",
+    "static/media/ibm-plex-sans-greek-400-normal.woff2": "/static/media/ibm-plex-sans-greek-400-normal.3a057227a4ac726b71f5.woff2",
+    "static/media/ibm-plex-sans-cyrillic-ext-400-normal.woff2": "/static/media/ibm-plex-sans-cyrillic-ext-400-normal.56b6c5df575156819cfa.woff2",
+    "static/media/ibm-plex-sans-vietnamese-200-normal.woff2": "/static/media/ibm-plex-sans-vietnamese-200-normal.4527b2391869a00e6896.woff2",
+    "static/media/ibm-plex-sans-vietnamese-500-normal.woff2": "/static/media/ibm-plex-sans-vietnamese-500-normal.6c8c3310116a9bf473a5.woff2",
+    "static/media/ibm-plex-sans-vietnamese-300-normal.woff2": "/static/media/ibm-plex-sans-vietnamese-300-normal.10dfce0baf529bc049a6.woff2",
+    "static/media/ibm-plex-sans-vietnamese-400-normal.woff2": "/static/media/ibm-plex-sans-vietnamese-400-normal.2e4166a1b8ecf1ee5e45.woff2",
+    "index.html": "/index.html",
+    "main.607c6f3e.css.map": "/static/css/main.607c6f3e.css.map",
+    "main.483c9110.js.map": "/static/js/main.483c9110.js.map",
+    "787.639d7f56.chunk.js.map": "/static/js/787.639d7f56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607c6f3e.css",
+    "static/js/main.483c9110.js"
+  ]
+}

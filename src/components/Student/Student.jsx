@@ -3,7 +3,7 @@ import React from "react";
 
 const Student = ({ data }) => {
   return (
-    <Flex mt="60px" alignItems="center">
+    <Flex mt="60px" alignItems="center" flexWrap="wrap">
       <Box>
         <Image
           src={data?.image}

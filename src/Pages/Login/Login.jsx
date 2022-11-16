@@ -28,7 +28,6 @@ function Login() {
 
   const submit = () => {
     dispatch(userLogin(username, password));
-    console.log("first");
     if (error === "Invalid Username or Password") {
       errorToast(error);
     }
