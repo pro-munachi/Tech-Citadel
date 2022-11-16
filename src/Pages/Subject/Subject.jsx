@@ -1,4 +1,4 @@
-import { Box, Flex, Text, useColorModeValue } from "@chakra-ui/react";
+import { Box, Text, useColorModeValue } from "@chakra-ui/react";
 import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { useParams } from "react-router-dom";
@@ -18,7 +18,7 @@ const Subject = () => {
 
   const { id } = useParams();
 
-  const user = JSON.parse(localStorage.getItem("userInfo"));
+  const user = JSON.parse(localStorage.getItem("userInformations"));
 
   React.useEffect(() => {
     getData();
@@ -43,15 +43,6 @@ const Subject = () => {
           <Text>Teacher: {data?.teacher}</Text>
           <Text>Assessment: {data?.assessment}</Text>
           <Text>Exam: {data?.exam}</Text>
-
-          <Flex>
-            <Text>Topics:</Text>
-            {data?.topics?.map((data, i) => (
-              <Text key={i} ml="5px">
-                {data}
-              </Text>
-            ))}
-          </Flex>
         </Box>
       </Box>
     </Box>

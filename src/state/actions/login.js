@@ -9,7 +9,7 @@ export const userLogin = (username, password) => {
           payload: data[i],
         });
 
-        localStorage.setItem("userInfo", JSON.stringify(data[i]));
+        localStorage.setItem("userInformations", JSON.stringify(data[i]));
       } else {
         dispatch({
           type: "USER_LOGIN_FAIL",

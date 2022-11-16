@@ -23,20 +23,10 @@ const useCustomToast = () => {
       isClosable: true,
     });
   };
-  const infoToast = (infoMessage, duration) => {
-    return toast({
-      status: "info",
-      title: "Info",
-      description: infoMessage,
-      position: "top-right",
-      isClosable: true,
-      duration: duration,
-    });
-  };
+
   return {
     successToast,
     errorToast,
-    infoToast,
   };
 };
 

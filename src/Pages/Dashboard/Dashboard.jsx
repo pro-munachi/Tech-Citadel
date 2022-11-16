@@ -18,7 +18,7 @@ const Dashboard = () => {
   const dash = useSelector((state) => state.dashboard);
   const { data } = dash;
 
-  const user = JSON.parse(localStorage.getItem("userInfo"));
+  const user = JSON.parse(localStorage.getItem("userInformations"));
 
   React.useEffect(() => {
     getData();

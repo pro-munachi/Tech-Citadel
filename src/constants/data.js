@@ -13,7 +13,6 @@ const data = [
         id: 1,
         exam: "60/70",
         assessment: "17/30",
-        topics: ["Introduction to English", "Nouns and Pronouns"],
         teacher: "Mrs Abimbola",
       },
       {
@@ -21,7 +20,6 @@ const data = [
         id: 2,
         exam: "60/70",
         assessment: "17/30",
-        topics: ["Introduction to English", "Nouns and Pronouns"],
         teacher: "Mrs Abimbola",
       },
       {
@@ -29,7 +27,6 @@ const data = [
         id: 3,
         exam: "60/70",
         assessment: "17/30",
-        topics: ["Introduction to English", "Nouns and Pronouns"],
         teacher: "Mrs Abimbola",
       },
       {
@@ -37,7 +34,6 @@ const data = [
         id: 4,
         exam: "60/70",
         assessment: "17/30",
-        topics: ["Introduction to English", "Nouns and Pronouns"],
         teacher: "Mrs Abimbola",
       },
     ],

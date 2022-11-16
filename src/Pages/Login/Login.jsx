@@ -1,4 +1,4 @@
-import { Box, Button, Center, Flex, Input, Text } from "@chakra-ui/react";
+import { Box, Button, Flex, Input, Text } from "@chakra-ui/react";
 import { useState, useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
@@ -24,7 +24,7 @@ function Login() {
       successToast("Login Successful");
       navigate("/");
     }
-  }, [userInfo]);
+  }, [userInfo, navigate, successToast]);
 
   const submit = () => {
     dispatch(userLogin(username, password));
