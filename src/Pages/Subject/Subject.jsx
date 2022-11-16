@@ -14,8 +14,6 @@ const Subject = () => {
   const subject = useSelector((state) => state.subjects);
   const { data } = subject;
 
-  console.log(data);
-
   const { id } = useParams();
 
   const user = JSON.parse(localStorage.getItem("userInformations"));
